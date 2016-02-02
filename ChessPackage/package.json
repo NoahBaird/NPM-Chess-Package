@@ -1,0 +1,23 @@
+{
+  "name": "irc_chess",
+  "version": "1.0.0",
+  "description": "Package intended to be joined with the hubot framework to allow consumers to have functioning chess games within an IRC environment.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahBaird/NPM-Chess-Package.git"
+  },
+  "keywords": [
+    "chess",
+    "irc"
+  ],
+  "author": "Noah Baird (https://github.com/NoahBaird)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahBaird/NPM-Chess-Package/issues"
+  },
+  "homepage": "https://github.com/NoahBaird/NPM-Chess-Package#readme"
+}
